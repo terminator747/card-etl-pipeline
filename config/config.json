@@ -1,0 +1,5 @@
+{
+    "project_name": "card_transaction_etl",
+    "raw_data_path": "data/raw/transactions_sample.csv",
+    "curated_data_path": "data/curated"
+}

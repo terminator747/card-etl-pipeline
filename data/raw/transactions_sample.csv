@@ -1,0 +1,7 @@
+transaction_id,customer_id,transaction_ts,amount,merchant,city,channel,is_fraud
+1,101,2025-01-01 10:15:00,1200.50,Amazon,Mumbai,Online,0
+2,102,2025-01-01 11:20:00,250.00,Flipkart,Pune,Online,0
+3,103,2025-01-02 09:05:00,780.00,BookMyShow,Delhi,Online,1
+4,101,2025-01-02 18:30:00,3200.00,Croma,Mumbai,POS,0
+5,104,2025-01-03 14:10:00,150.00,McDonalds,Mumbai,POS,0
+6,105,2025-01-03 16:45:00,5600.00,Apple Store,Bangalore,POS,1
